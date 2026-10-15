@@ -4,8 +4,8 @@
 # SEBASTIAN JOAQUIN N YDIA 8 CAMIA 10/15/26
 
 # Program
-number_1 = int(input("Enter the first number: "))
-number_2 = int(input("Enter the second number: "))
+number_1 = float(input("Enter the first number: "))
+number_2 = float(input("Enter the second number: "))
 
 # Defining Functions
 def calculate_sum():
